@@ -1,4 +1,4 @@
-# JKU Latein
+# JKU Wirtschaftswissenschaften
 
 In diesem Repository befinden sich Unterlagen für Wirtschaftswissenschaften.
 
